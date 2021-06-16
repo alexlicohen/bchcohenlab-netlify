@@ -6,19 +6,22 @@ bio: I am a pediatric neurologist and physician-scientist at Boston Children’s
   Hospital studying Autism Spectrum Disorder with network mapping and data
   science.
 interests:
-  - "- The Brain - Playing Sitar"
+  - The Brain
+  - Playing Sitar
 social:
   - display:
       header: false
     link: https://connects.catalyst.harvard.edu/Profiles/display/Person/149497
-    icon_pack: ai
+    icon_pack: fas
     icon: address-card
   - display:
       header: false
     link: https://twitter.com/DrDrXanderli
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
-organizations: []
+organizations:
+  - name: Boston Children's Hospital
+    url: https://www.childrenshospital.org
 education:
   courses:
     - course: Translational Post-doctoral Training in Neurodevelopment (T32) Fellowship
