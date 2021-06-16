@@ -32,6 +32,8 @@ education:
       institution: Mayo Clinic, Rochester
       year: -2
 superuser: false
+user_groups:
+  - Faculty
 ---
 Alexander Li Cohen is a child neurologist and physician-scientist specializing in using translational neuroimaging to understand and treat Autism Spectrum Disorders and other neurodevelopmental conditions. Following his undergraduate and MD/PhD training at Washington University in St. Louis, he completed residency in Pediatrics and Child Neurology at Mayo Clinic in Rochester, MN during which he developed an interest in childhood conditions affecting cognition including Autism Spectrum Disorders. Dr. Cohen went on to complete a Pediatric Behavioral Neurology fellowship at Boston Children’s Hospital and a post-doctoral research fellowship in the Computational Radiology Laboratory at BCH and the Laboratory for Brain Network Imaging and Modulation at Beth Israel Deaconess Medical Center. He now cares for patients in the Autism Spectrum Center and Behavioral Neurology Clinic and is starting his own Laboratory of Translational Neuroimaging as part of the new multidisciplinary Brain, Mind, and Behavior Center at Boston Children’s Hospital.
 
